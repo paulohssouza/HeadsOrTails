@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Cara ou Coroa</string>
+    <string name="buttonPlayText">JOGAR</string>
+    <string name="buttonBackText">VOLTAR</string>
+</resources>
